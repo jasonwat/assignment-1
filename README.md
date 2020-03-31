@@ -3,7 +3,7 @@
 
 Instructions
 
-1. **Important** Make sure your have submitted your GitHub username to https://randyimac.duckdns.org/sta141b-signin/. This will allow us to fetch your assignments later. Failing to do so will result in a zero grade of the assignments. DO NOT enter more than once.
+1. **Important** Make sure your have submitted your GitHub username to https://randyimac.duckdns.org/sta141c-signin/. This will allow us to fetch your assignments later. Failing to do so will result in a zero grade of the assignments. DO NOT enter more than once.
 1. Accept the assignment via the link: [link will be posted later]
 1. Create a new RStudio project with the repo containing your username `assignment-n-USERNAME` (do not clone the public repo `assignment-n`)
 1. Edit the corresponding R Markdown files
